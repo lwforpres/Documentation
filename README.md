@@ -1,4 +1,4 @@
 # documentation
-Tests for documentation use.
+Documentation space for digital preservation and digital archives workflows.
 
-Trial run for empathic documentation...documents.
+
