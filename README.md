@@ -1,4 +1,4 @@
 # Documentation
-Documentation space for digital preservation and digital archives workflows.
+Working space for digital preservation and digital archives processes and workflows.
 
 
